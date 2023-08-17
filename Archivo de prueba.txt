@@ -2,7 +2,7 @@ Archivo de prueba
 
 Juan Manuel Suarez Olave, 32 años
 
-Revisión de archivo en cógido
+Revisión de archivo en código
 
 Nuevas adiciones al archivo de texto, con el objetivo de evidenciar los cambios realizados al archivo
-El objetivo de este ejercicio es utilizar la mayor cantidad de comandos posibles
+Buscamos utilizar todos los comandos posibles
